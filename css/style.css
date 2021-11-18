@@ -30,8 +30,10 @@ body {
 }
 .content_usage {
   margin: 0 5vw;
-  padding: 90px 0;
-  background-color: #f7f8f8;
+  background-image: url("../image/structure.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 .content_mind {
   margin: 0 5vw;
