@@ -29,12 +29,11 @@ body {
   padding: 90px 0;
 }
 .content_usage {
-  margin: 0 5vw;
   height: 80vh;
   background-image: url("../image/structure.png");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
+  background-size: contain;
 }
 .content_mind {
   margin: 0 5vw;
