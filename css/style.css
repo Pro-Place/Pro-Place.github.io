@@ -30,6 +30,7 @@ body {
 }
 .content_usage {
   height: 80vh;
+  margin: 0 5vw;
   background-image: url("../image/structure.png");
   background-repeat: no-repeat;
   background-position: center;
