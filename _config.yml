@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+title: Pro Place 
+description: HomePage
+
+github:
+  is_project_page: false
+
+include:
+  - _pages
